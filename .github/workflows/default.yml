@@ -1,4 +1,4 @@
-name: default
+name: .github/workflows/default.yml
 
 on: [push, pull_request]
 
